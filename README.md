@@ -1,0 +1,1 @@
+Script to manually introduce partitions into a Glue Catalog table
